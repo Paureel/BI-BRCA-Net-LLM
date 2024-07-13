@@ -1,6 +1,13 @@
 # Biologically informed deep learning for discovery of drug targets for PIK3CA mutated breast cancers
 
 ![Project Banner](banner0.png) 
+
+```diff
+- Important note: Please note that this project is still in an experimental phase, and the repo is updated daily. The details on how to run the BI-BRCA-Net-LLM end-to-end workflow will be added soon.
+
+```
+
+
 ## 🚀 Introduction
 
 Welcome to the official repository for the **BI-BRCA-Net-LLM**! This project introduces BI-BRCA-Net, a biologically informed, explainable deep learning methodology, to investigate the mechanistic differences between PIK3CA mutant and wild type breast cancer based on the recently published P-Net architecture [1]. By integrating multiomics data (including DNA copy number, gene expression levels, methylation, and gene mutations) through an explainable neural network architecture, BI-BRCA-Net leverages existing biological knowledge to validate functional interactions. It aims to identify and later to experimentally confirm the functional modules and pathways prevalent in PIK3CA mutant breast cancer [2]. The objective is to use Large Language Models (LLMs) to invent novel hypotheses on how to limit the growth of cancer cells by targeting identified pathways, validated through the suppression of critical pathway genes and evaluating their effects on cellular proliferation.
@@ -36,7 +43,7 @@ Welcome to the official repository for the **BI-BRCA-Net-LLM**! This project int
 
 ## 🌟 Demo
 
-Check out our [live demo]() to see the app in action! Currently, the hypothesis generator part of the model is hosted here.
+Check out our [live demo](https://scigenllmagent.site/) to see the app in action! Currently, the hypothesis generator part of the model is hosted here.
 
 ## 🛠️ Installation
 
