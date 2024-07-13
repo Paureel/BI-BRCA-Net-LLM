@@ -2,10 +2,10 @@
 
 ![Project Banner](banner0.png) 
 
-```diff
-- Important note: Please note that this project is still in an experimental phase, and the repo is updated daily. The details on how to run the BI-BRCA-Net-LLM end-to-end workflow will be added soon.
 
-```
+**Important note: Please note that this project is still in an experimental phase, and the repo is updated daily. The details on how to run the BI-BRCA-Net-LLM end-to-end workflow will be added soon.**
+
+[LLM-SCI-GEN](https://github.com/Paureel/LLM-SCI-GEN) Papers about scientific hypothesis generation with large language models (LLMs), maintained by me. Check it out if you are interested more in this topic.
 
 
 ## 🚀 Introduction
